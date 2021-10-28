@@ -1,0 +1,7 @@
+for i in word 
+  if i is lower (I) not in dict.keys(): 
+        dict [I] = 01
+    else 
+        dict[i]=dict[i] +1 
+sort=sorted(dict.otems(), key=lambda x:x[1],reverse= True) for i in sort:
+    print (i'=', sort [i])
